@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="5979d35e-aa6a-4259-9dff-cb944f943490" />
+      <option name="name" value="5979d35e-aa6a-4259-9dff-cb944f943490" />
+      <option name="url" value="http://maven.icm.edu.pl/artifactory/repo/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cb9c5a45-ef52-4085-900a-18b390a67e10" />
+      <option name="name" value="cb9c5a45-ef52-4085-900a-18b390a67e10" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="44a1d4af-4913-4e68-bcb2-1784646e9a0e" />
+      <option name="name" value="44a1d4af-4913-4e68-bcb2-1784646e9a0e" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+  </component>
+</project>
